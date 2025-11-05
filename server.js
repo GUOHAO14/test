@@ -7,7 +7,7 @@ app.set("view engine", "ejs");
 // make routes 
 // can be get, post, put, delete, etc.
 // paramters: (path, callback function)
-
+// sup
 
 // below can also be used to pass in param to ejs
 app.use((req, res, next) => {
